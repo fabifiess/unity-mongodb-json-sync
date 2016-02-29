@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ADD39CB7-0FAA-5300-274D-0FE5EF9107ED}") = "unizy-mongoJsonIO", "Assembly-CSharp.csproj", "{90599D61-E9EC-D5A9-7246-62720ABA2266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90599D61-E9EC-D5A9-7246-62720ABA2266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90599D61-E9EC-D5A9-7246-62720ABA2266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90599D61-E9EC-D5A9-7246-62720ABA2266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90599D61-E9EC-D5A9-7246-62720ABA2266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
